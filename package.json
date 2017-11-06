@@ -4,6 +4,7 @@
   "description": "Conector do BD das Sacolinhas com o Google Sheets",
   "main": "index.js",
   "scripts": {
+    "start": "node src/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,15 @@
   "bugs": {
     "url": "https://github.com/OPERACAONATAL/conector_google_sheets/issues"
   },
-  "homepage": "https://github.com/OPERACAONATAL/conector_google_sheets#readme"
+  "homepage": "https://github.com/OPERACAONATAL/conector_google_sheets#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^4.0.0",
+    "edit-google-spreadsheet": "^0.3.0",
+    "google-auth-library": "^0.11.0",
+    "google-sheets-node-api": "^0.3.0",
+    "google-spreadsheet": "^2.0.3",
+    "googleapis": "^22.2.0",
+    "request": "^2.83.0"
+  }
 }
