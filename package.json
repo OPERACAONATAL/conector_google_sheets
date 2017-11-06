@@ -1,0 +1,20 @@
+{
+  "name": "conector_google_sheets",
+  "version": "1.0.0",
+  "description": "Conector do BD das Sacolinhas com o Google Sheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPERACAONATAL/conector_google_sheets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OPERACAONATAL/conector_google_sheets/issues"
+  },
+  "homepage": "https://github.com/OPERACAONATAL/conector_google_sheets#readme"
+}
